@@ -11,7 +11,7 @@ class Polynomial {
 	class Term {
 		int coef;
 		int exp;
-		Term link;
+		Term link; 
 	}
 
 	private Term head;  // 첫번째 항을 가리키는 레퍼런스 변수
