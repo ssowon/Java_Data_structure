@@ -8,7 +8,7 @@ class Stack {
 	public Stack() {
 		stack = new String[50];
 		top = -1;
-	}
+	} 
 	
 	public boolean isEmpty() {
 		return top < 0;
